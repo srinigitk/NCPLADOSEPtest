@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 #NewLine CI test
 #New line Sep 27th for CI pipeline on ADO
-#New Line to test auto CI/CD
+#New Line to test auto CI/CD -- Auto enable
 
 trigger:
 - master
