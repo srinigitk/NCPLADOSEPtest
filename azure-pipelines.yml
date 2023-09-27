@@ -3,7 +3,7 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 #NewLine CI test
-#New line Sep 27th
+#New line Sep 27th for CI pipeline on ADO
 
 trigger:
 - master
